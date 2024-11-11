@@ -60,7 +60,7 @@ canvas{
     animation-iteration-count: infinite;
 }
 .loop>h1>span{
-    -webkit-text-stroke: 1.2px .000;
+    -webkit-text-stroke: 1.2px #000;
     color: transparent;
     font-weight: 500;
 }
@@ -91,7 +91,7 @@ canvas{
 .nav>button{
     padding: 10px 20px;
     border-radius: 50px;
-    background-color: .000;
+    background-color: #000;
     color: #fff;
     border: none;
 }
@@ -115,7 +115,7 @@ canvas{
     top: 60%;
     font-family: gilroy;
     font-weight: 400;
-    color: .7c7c7c;
+    color: #7c7c7c;
     left: 70%;
 }
 .page1>.right-text{
@@ -125,7 +125,7 @@ canvas{
 }
 .page1>.right-text>h3{
     font-weight: 400;
-    color: .7c7c7c;
+    color: #7c7c7c;
 }
 .page1>.right-text>h1{
     line-height: 1.5;
@@ -142,7 +142,7 @@ canvas{
     line-height: 1.5;
 }
 .page1>.left-text>h3{
-    color: .7c7c7c;
+    color: #7c7c7c;
     font-weight: 400;
 }
 .page2>.text1{
@@ -151,7 +151,7 @@ canvas{
     left: 10%;
 }
 .page2>.text1>h3{
-    color: .7c7c7c;
+    color: #7c7c7c;
     font-weight: 400;
 }
 .page2>.text1>h1{
